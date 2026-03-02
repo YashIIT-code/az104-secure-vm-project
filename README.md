@@ -39,3 +39,14 @@ and enabling VM-level backups using Recovery Services Vault.
 
 ## Proof of Implementation
 Screenshots demonstrating successful configuration and monitoring are included.
+
+## Screenshots
+
+### Resource Group
+![Resource Group]
+
+### Network Security Rules
+![NSG Rules]
+
+### VM Monitoring
+![CPU Metrics]
